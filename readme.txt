@@ -7,12 +7,9 @@ update2
 
 morea readme content
 
-<<<<<<< HEAD
 editing the file in master
 
 yeahhh, light weights babeeee
-=======
 this is some merging conflict text
 
 yeahhh budy
->>>>>>> trouble-branch
