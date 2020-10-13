@@ -1,4 +1,5 @@
-const socialElements = document.getElementById('social-linkss');
+const socialLinks = document.getElementById('social-links');
 
-console.log(socialElements);
-console.log(socialElements.length);
+console.log(socialLinks.length);
+
+console.log(socialLinks);
