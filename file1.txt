@@ -1,1 +1,3 @@
 updated feature. very complicated stuff
+
+logout complicated logic
